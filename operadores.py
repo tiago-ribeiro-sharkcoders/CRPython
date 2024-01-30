@@ -10,6 +10,33 @@ operadores aritemoticos
 **potencia
 %resto da divisao
 
-oeradores condicionais
+operadores condicionais
+
+== igual
+< maior que
+> menor que
+>= menor ou igual que
+<= maior ou igual que
+!= diferente de
+
+operadores logicos
+
+and = e
+or = ou
+not = not
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 '''
