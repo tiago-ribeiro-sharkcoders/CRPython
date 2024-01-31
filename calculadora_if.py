@@ -30,11 +30,3 @@ elif option == 5:
     pass
 else:
     print("opçao invalida tente mais tarde")
-
-
-
-
-
-
-
-
